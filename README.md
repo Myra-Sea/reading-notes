@@ -4,7 +4,7 @@ Hello world!  My name is Myra Reeves.  I have lived in several locales in my lif
 This is my reading journal for Code Fellows 102.
 
 
-# Growth Midset
+# Growth Mindset
 *Growth Mindset is an attitude/belief that new skills can be learned and improved on by anyone.  The concept centers around success being a controllable factor instead of being pre-determined by a person's genetics, etc.* 
 
 **To remain in a growth mindset:**
