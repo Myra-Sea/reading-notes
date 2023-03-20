@@ -10,4 +10,4 @@ My name is Myra.
 2. REMINDER 2:
 3. REMINDER 3:
 
-Link to my GitHub portfolio: https://github.com/myra-sea
+[Click here for a link to my GitHub portfolio](https://github.com/myra-sea)
