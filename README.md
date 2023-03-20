@@ -1,8 +1,8 @@
 # reading-notes
-Reading journal for Code Fellows
+My name is Myra Reeves and this is my reading journal for Code Fellows 102.
 
-My name is Myra.
 
+# Growth Midset
 *Growth Mindset is* 
 
 **To remain in a growth mindset:**
@@ -10,4 +10,5 @@ My name is Myra.
 2. REMINDER 2:
 3. REMINDER 3:
 
+# Links
 [Click here for a link to my GitHub portfolio](https://github.com/myra-sea)
