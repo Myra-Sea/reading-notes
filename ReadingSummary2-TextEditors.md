@@ -60,3 +60,5 @@ The following string of commands
 3. followed by then creating a new .md file named "newfile" inside of that newly created "new-project" folder
 4. followed by going back one level to the projects directory
 5. and will conclude by listing all of the contents of the "new project" folder that's inside of the projects directory.  The only content should be that single "newfile" .md file
+
+[Back to homepage](/README.md)
