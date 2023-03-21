@@ -1,4 +1,4 @@
- #  	:purple_square: Reading Assignment #1: Markdown  	:purple_square:
+ # Reading Assignment #1: Markdown
 
  *Markdown is a way to format text using symbols (computer syntax symbols) in a visually unobtrusive way.*
 
@@ -28,7 +28,7 @@ As a result of all of the above, it has become extremely popular.
 + They can be nested by using indentation.
 
 :memo: `[ ]` surrounding the desired hyperlink displayed text followed immediately by `( )` surrounding the url creates a link
-+ There should not be any space between the closing bracket and the opening paranthesis.  It should look like ]( 
++ There should not be any space between the closing bracket and the opening parenthesis.  It should look like ]( 
 
 :memo: `>` at the start of a line creates a block quote
 + Quotes can be nested using >>
