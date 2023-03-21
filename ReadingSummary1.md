@@ -6,7 +6,11 @@ It is designed to be simple, readable, and versatile.  It can be used on any ope
 
 As a result of all of the above, it has become extremely popular.
 
-<br><br>
+<br>
+
+![swirly divider line](divider.gif)
+
+<br>
 
 ## Examples of Basic Markdown Syntax
 :memo: `#` at the start of a line creates a heading
