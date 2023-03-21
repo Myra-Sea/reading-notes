@@ -1,10 +1,12 @@
-# About Markdown
+ #  	:purple_square: Reading Assignment #1: Markdown  	:purple_square:
 
  *Markdown is a way to format text using symbols (computer syntax symbols) in a visually unobtrusive way.*
 
 It is designed to be simple, readable, and versatile.  It can be used on any operating system and can be interpreted by most software programs.  This makes it easy to move (copy & paste) markdown-formatted text between different applications.  The readability of it also helps preserve the content of markdown-formatted files into the future.
 
 As a result of all of the above, it has become extremely popular.
+
+<br><br>
 
 ## Examples of Basic Markdown Syntax
 :memo: `#` at the start of a line creates a heading
