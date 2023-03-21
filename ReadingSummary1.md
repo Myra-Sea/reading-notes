@@ -13,13 +13,13 @@ As a result of all of the above, it has become extremely popular.
 <br>
 
 ## Examples of Basic Markdown Syntax
-:computer: `#` at the start of a line creates a heading
+:octocat: `#` at the start of a line creates a heading
 
 + The number of # used denotes the level of the heading.  Use one # for the largest (top level) heading, two for the next level below that, three for the third level below, etc., etc., all the way down to six #'s in a row for the smallest (lowest level) heading. 
 + It is best to place a space after the # sign, to avoid compatibility issues.
 + It is also best to place a blank line after a heading.    
 
-:computer: `**` surrounding text causes it to be **bold**   
+:black_square_button: `**` surrounding text causes it to be **bold**   
 + You can also surround text using __ two underscores __ to create the same effect but it may not work if the bold part is in the middle of a word.  Therefore, using ** is best practice.
 + Regardless of which symbol is used, there should not be any space between it and the word you wish to make bold.
 
