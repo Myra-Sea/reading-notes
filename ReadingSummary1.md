@@ -1,4 +1,4 @@
- # Reading Assignment 1: Markdown
+# About Markdown
 
  *Markdown is a way to format text using symbols (computer syntax symbols) in a visually unobtrusive way.*
 
