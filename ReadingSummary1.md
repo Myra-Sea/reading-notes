@@ -13,27 +13,27 @@ As a result of all of the above, it has become extremely popular.
 <br>
 
 ## Examples of Basic Markdown Syntax
-:memo: `#` at the start of a line creates a heading
+:computer: `#` at the start of a line creates a heading
 
 + The number of # used denotes the level of the heading.  Use one # for the largest (top level) heading, two for the next level below that, three for the third level below, etc., etc., all the way down to six #'s in a row for the smallest (lowest level) heading. 
 + It is best to place a space after the # sign, to avoid compatibility issues.
 + It is also best to place a blank line after a heading.    
 
-:memo: `**` surrounding text causes it to be **bold**   
+:computer: `**` surrounding text causes it to be **bold**   
 + You can also surround text using __ two underscores __ to create the same effect but it may not work if the bold part is in the middle of a word.  Therefore, using ** is best practice.
 + Regardless of which symbol is used, there should not be any space between it and the word you wish to make bold.
 
-:memo: `*` surrounding text causes it to be *italic*    
+:computer: `*` surrounding text causes it to be *italic*    
 + You can also surround text using _ one underscore _ to create the same effect, but it may not work if the italic part is in the middle of a word.  Therefore, using * is best practice.
 + Regardless of which symbol is used, there should not be any space between it and the word you wish to make italic.
 
-:memo: `*` or `+` or `-` at the start of each line creates an unordered list
+:computer: `*` or `+` or `-` at the start of each line creates an unordered list
 + It is best to pick one within a file and stick with it throughout.
 + They can be nested by using indentation.
 
-:memo: `[ ]` surrounding the desired hyperlink displayed text followed immediately by `( )` surrounding the url creates a link
+:computer: `[ ]` surrounding the desired hyperlink displayed text followed immediately by `( )` surrounding the url creates a link
 + There should not be any space between the closing bracket and the opening parenthesis.  It should look like ]( 
 
-:memo: `>` at the start of a line creates a block quote
+:computer: `>` at the start of a line creates a block quote
 + Quotes can be nested using >>
 + It is best to place a blank line before and after a block quote.    
