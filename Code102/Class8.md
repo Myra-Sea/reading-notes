@@ -6,4 +6,4 @@ Text here
 
 <br>
 
-[Back to homepage](README.md)
+[Back to homepage](reading-notes/README.md)
