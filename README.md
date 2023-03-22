@@ -2,7 +2,7 @@
 
 My name is Myra Reeves and I am a current student in the Code Fellows tech school. [Follow this link to learn more about me](/about.md)
 
-Below you will find a collection of my assingments and reading journals for the school's software development courses.
+Below you will find a collection of my reading journals for the school's software development courses.
 
 <br>
 
