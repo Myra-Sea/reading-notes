@@ -49,9 +49,10 @@ CSS has modules. For example, there is a module for backgrounds.  It is defined 
 
 3. **Inline CSS:**  This is styling code directly inside the HTML element itself.  As a result, the code will appear as if it is written in HTML due to the lack of curly brackets.
 
-```
-The website browser will look for CSS in the above order.  It reads all external CSS first, followed by applying any internal CSS, and then applies any inline CSS.  As a result, the inline CSS rule will override the internal CSS rule, which in turn takes priority over the external CSS rule.
-```
+<br>
+
+>The website browser will look for CSS in the above order.  It reads all external CSS first, followed by applying any internal CSS, and then applies any inline CSS.  As a result, the inline CSS rule will override the internal CSS rule, which in turn takes priority over the external CSS rule.
+
 
 <br>
 
