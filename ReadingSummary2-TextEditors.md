@@ -13,6 +13,7 @@ Two forms are word processors and code editors.  Code editors are the type creat
 ## Important Features
 
 Four of the most important features for any text editor are:
+
 + Code Completion
   + Saves time and helps prevent coding errors
 + Syntax Highlighting
@@ -43,6 +44,7 @@ Four of the most important features for any text editor are:
 <br>
 
 ### For example...
+
 The following string of commands
 > ~ cd projects
 >
@@ -55,6 +57,7 @@ The following string of commands
 > ~ ls projects/new-project
 
 ### ...will result in...
+
 1. Changing the location into being in the projects directory
 2. followed by then creating a new directory named "new-project"
 3. followed by then creating a new .md file named "newfile" inside of that newly created "new-project" folder
