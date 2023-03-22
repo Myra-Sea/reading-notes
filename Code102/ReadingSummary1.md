@@ -47,5 +47,3 @@ As a result of all of the above, it has become extremely popular.
 <br>
 
 <br>
-
-[Back to homepage](/README.md)
