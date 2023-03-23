@@ -58,7 +58,7 @@ The following string of commands
 
 ### ...will result in...
 
-1. Changing the location into being in the projects directory
+1. Navigating to the projects directory
 2. followed by then creating a new directory named "new-project"
 3. followed by then creating a new .md file named "newfile" inside of that newly created "new-project" folder
 4. followed by going back one level to the projects directory

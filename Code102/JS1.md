@@ -37,7 +37,7 @@ Recently, JavaScript has begun to be used directly within the servers on the bac
 
 It is best practice to always use `var`, `let`, or `const` instead of leaving the value undefined.  Of those 3 choices, it is best to always try to use `const` (denotes a **fixed** value) unless you want the value of the variable to be changeable, in which case use `let`.
 
-The label `var` was used from 1995 to 2015, whereas the let and const keywords was added to JavaScript in 2015.  Therefore, if you want your code to run in older browsers, you must use `var`.
+The label `var` was used from 1995 to 2015, whereas the `let` and `const` keywords were added to JavaScript in 2015.  Therefore, if you want your code to run in older browsers, you must use `var`.
 
 
 For example, if:

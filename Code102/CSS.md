@@ -1,6 +1,6 @@
 # CSS
 
-*CSS stands for Cascading Style Sheets.  It is a coding language, that allows control over how HTML elements look, enabling creativity of design.  For example, it can change the color or size of text, whether an element moves on a page(animates), and how sections are laid out on the screen.*
+*CSS stands for Cascading Style Sheets.  It is a coding language, that allows control over how HTML elements look, enabling creativity of design.  For example, it can change the color or size of text, whether an element moves on a page (animates), and how sections are laid out on the screen.*
 
 CSS defines rules that should be applied to elements on the page.  
 
@@ -10,7 +10,7 @@ CSS defines rules that should be applied to elements on the page.
 
 <br>
 
-CSS uses its own syntax.  It begins with a **selector** that identifies which HTML element (for example p or h1) the rules will apply to.  It then has an **opening curly bracket {**. Next is the **declaration** consisting of a **property** (example: color, font-size, or border-color), followed by a **colon**, and then the **value** being ascribed to it (example: green, 5em, or 50%), followed by a **semi-colon**. The syntax then ends with the **closing curly bracket }**.
+CSS uses its own syntax.  It begins with a **selector** that identifies which HTML element (for example, p or h1) the rules will apply to.  It then has an **opening curly bracket {**. Next is the **declaration** consisting of a **property** (example: color, font-size, or border-color), followed by a **colon**, and then the **value** being ascribed to it (example: green, 5em, or 50%), followed by a **semi-colon**. The syntax then ends with the **closing curly bracket }**.
 
 If multiple declarations are needed for the selected HTML element they should all be placed within the one pair of brackets, one written after another.  For readability, they can each be placed on a separate line within the code:
 
@@ -42,7 +42,7 @@ CSS has modules. For example, there is a module for backgrounds.  It is defined 
 
 ## Ways to insert CSS into a webpage
 
-1. **External CSS:**  This method is the best practice for using CSS.  A separate CSS file that can change the look of an entire website.  There should not be any HTML tags inside this external file.  Instead, a reference to this external CSS file must be made inside of a <link> element in the <head> section of the HTML page.  This is the location because it's information for the browser instead of the viewer.  It will need to be written in this head location for every html page of the website that you wish to look the same.
+1. **External CSS:**  This method is the best practice for using CSS.  A separate CSS file that can change the look of an entire website.  There should not be any HTML tags inside this external file.  Instead, a reference to this external CSS file must be made inside of a <link> element in the <head> section of the HTML page.  This is the location because it's information for the browser instead of the client.  It will need to be written in this head location for every html page of the website that you wish to look the same.
 `<link rel="stylesheet" href="style.css">`
 
 2. **Internal CSS:**  This method is CSS inside of the HTML document.  This method uses HTML <style> </style> tags with the CSS syntax inside.
