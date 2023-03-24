@@ -9,7 +9,7 @@ An **operand** is the piece of code that specifies what data is to be manipulate
 A **comparison operator** compares the operands and returns a logical value based on whether the comparison is true.  The operands can be numerical, string, logical, or object values.  If the two operands are not the same type, JavaScript will attempt to convert them to an appropriate type for comparison.  This generally results in comparing the operands numerically.
 For example, a `true` result would be given if the comparison operators are equal. ` 3 == var1 , "3" == var1 , 3 =='3' `
 
-An **assignment operator** assign a value to what's on it's left to what's on its right.  So, for example, `x=f()` assigns the value of `f()` to `x`
+An **assignment operator** assign a value of what's on it's left to what's on its right.  So, for example, `x=f()` assigns the value of `f()` to `x`
 
 There are several shorthand ways to write these in code.
 
