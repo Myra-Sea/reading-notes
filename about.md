@@ -12,9 +12,9 @@ I am a scholar level student in [The 1595. Club](https://www.the1595club.com/) h
 
 This summer (2023), I also joined the [Society for Creative Anachronism (SCA)](https://www.sca.org/new-to-the-sca/) and have been participating in weekly archery practice with a recurved bow.
 
-Lastly, I enjoy playing D&D with groups in Tacoma and Gig Harbor.  My go-to character choice is usually a halfling.  However, currently I am playing a tiefling instead. A tiefling who is a True Neutral (alignment), bard, sailor, named Nocturne with proficiency in the fiddle (so that [she can defeat the devil](https://www.youtube.com/watch?v=sh7BZf7D5Bw)), the banjo (just like [Amigo the Devil](https://www.youtube.com/watch?v=KYDQWED6fKw)), and the hand drums (because [hand drums made sense as the final choice to round things out in a sailor/pirate sort of way](https://www.youtube.com/watch?v=nMOyOlmBYCU)).
+Lastly, I enjoy playing D&D with groups in Tacoma and Gig Harbor.  My go-to character choice is usually a halfling.  However, currently I am playing a tiefling instead. This current tiefling character is a True Neutral (alignment), bard, sailor, named Nocturne with proficiency in the fiddle (so that [she can defeat the devil](https://www.youtube.com/watch?v=sh7BZf7D5Bw)), the banjo (just like [Amigo the Devil](https://www.youtube.com/watch?v=KYDQWED6fKw)), and the hand drums (because [hand drums made sense as the final choice to round things out in a sailor/pirate sort of way](https://www.youtube.com/watch?v=nMOyOlmBYCU)).
 
-So there ya go!  That's a very brief look at who I am.
+So there ya go!  That's a very brief glimpse at some of my hobbies and past.
 
 <br>
 
