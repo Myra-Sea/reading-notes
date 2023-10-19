@@ -1,4 +1,4 @@
-# reading-notes
+# Reading Notes
 
 My name is Myra Reeves and I am a current student in the Code Fellows tech school. [Follow this link to learn more about me](/about.md)
 
@@ -6,7 +6,7 @@ Below you will find a collection of my reading journals for the school's softwar
 
 <br>
 
-## Code 102 Reading Notes
+## Code 102 Reading Notes -- Introduction to Software Development
 
 Class 1:  Markdown
 
@@ -29,19 +29,19 @@ Class 8:  [Operators and Loops](/Code102/Class8.md)
 
 <br>
 
-## Code 201 Reading Notes
+## Code 201 -- Foundations of Software Development
 
-Class 1:  [Placeholder 1](/Code201/File01.md)
+Class 1:  [Internet Basics, Website Design, & Basics of HTML and JavaScript](/Code201/class-01.md)
 
-Class 2:  [Placeholder 2](/Code201/File02.md)
+Class 2:  [HTML Fundamentals and Formatting, How CSS is Structured, JavaScipt Basics, & Conditionals](/Code201/File02.md)
 
-Class 3:  [Placeholder 3](/Code201/File03.md)
+Class 3:  [HTML Lists, the CSS Box Model, & Control Flow with JavaScript](/Code201/File03.md)
 
-Class 4:  [Placeholder 4](/Code201/File04.md)
+Class 4:  [Creating Hyperlinks, Intro to CSS Layout, JavaScript Functions, & Pair Programming](/Code201/File04.md)
 
-Class 5:  [Placeholder 5](/Code201/File05.md)
+Class 5:  [Images, Color, & Text Styling](/Code201/File05.md)
 
-Class 6:  [Placeholder 6](/Code201/File06.md)
+Class 6:  [JavaScript Object Basics, Problem Domain, and the DOM](/Code201/File06.md)
 
 Class 7:  [Placeholder 7](/Code201/File07.md)
 
@@ -60,6 +60,74 @@ Class 13:  [Placeholder 13](/Code201/File13.md)
 Class 14:  [Placeholder 14](/Code201/File14.md)
 
 Class 15:  [Placeholder 15](/Code201/File15.md)
+
+<br>
+
+## Code 301 -- Intermediate
+
+Class 1:  [Placeholder 1](/Code301/File01.md)
+
+Class 2:  [Placeholder 2](/Code301/File02.md)
+
+Class 3:  [Placeholder 3](/Code301/File03.md)
+
+Class 4:  [Placeholder 4](/Code301/File04.md)
+
+Class 5:  [Placeholder 5](/Code301/File05.md)
+
+Class 6:  [Placeholder 6](/Code301/File06.md)
+
+Class 7:  [Placeholder 7](/Code301/File07.md)
+
+Class 8:  [Placeholder 8](/Code301/File08.md)
+
+Class 9:  [Placeholder 9](/Code301/File09.md)
+
+Class 10:  [Placeholder 10](/Code301/File10.md)
+
+Class 11:  [Placeholder 11](/Code301/File11.md)
+
+Class 12:  [Placeholder 12](/Code301/File12.md)
+
+Class 13:  [Placeholder 13](/Code301/File13.md)
+
+Class 14:  [Placeholder 14](/Code301/File14.md)
+
+Class 15:  [Placeholder 15](/Code301/File15.md)
+
+<br>
+
+## Code 401 -- Advanced
+
+Class 1:  [Placeholder 1](/Code401/File01.md)
+
+Class 2:  [Placeholder 2](/Code401/File02.md)
+
+Class 3:  [Placeholder 3](/Code401/File03.md)
+
+Class 4:  [Placeholder 4](/Code401/File04.md)
+
+Class 5:  [Placeholder 5](/Code401/File05.md)
+
+Class 6:  [Placeholder 6](/Code401/File06.md)
+
+Class 7:  [Placeholder 7](/Code401/File07.md)
+
+Class 8:  [Placeholder 8](/Code401/File08.md)
+
+Class 9:  [Placeholder 9](/Code401/File09.md)
+
+Class 10:  [Placeholder 10](/Code401/File10.md)
+
+Class 11:  [Placeholder 11](/Code401/File11.md)
+
+Class 12:  [Placeholder 12](/Code401/File12.md)
+
+Class 13:  [Placeholder 13](/Code401/File13.md)
+
+Class 14:  [Placeholder 14](/Code401/File14.md)
+
+Class 15:  [Placeholder 15](/Code401/File15.md)
 
 <br>
 
