@@ -31,6 +31,8 @@ Class 8:  [Operators and Loops](/Code102/Class8.md)
 
 ## ![Emoji of a bronze medal](medal201.jpg)  Code 201 -- Foundations of Software Development
 
+Pre-work: [AI and Prompt Engineering](/Code201/prompt-engineering.md)
+
 Class 1:  [Internet Basics, Website Design, & Basics of HTML and JavaScript](/Code201/class-01.md)
 
 Class 2:  [HTML Fundamentals and Formatting, How CSS is Structured, JavaScipt Basics, & Conditionals](/Code201/File02.md)
