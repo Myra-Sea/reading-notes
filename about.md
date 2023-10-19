@@ -2,7 +2,7 @@
 
 ![This is a photo of myself](GitHub1.jpg)
 
-Hello world! :wave: My name is Myra Reeves.
+Hello world! 👋 My name is Myra Reeves.
 
 <br>
 
