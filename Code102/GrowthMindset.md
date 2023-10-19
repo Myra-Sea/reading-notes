@@ -14,3 +14,5 @@
     > "The future belongs to the elastic mind. When your mind is relaxed [...] you're not worried about why your ideas might be wrong.  You're not worried about failure.  You can experiment." - Mlodinow
 
 <br>
+
+Link to the assigned reading:  [How You Can Benefit From a Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
