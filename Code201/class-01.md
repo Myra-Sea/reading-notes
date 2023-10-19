@@ -2,6 +2,7 @@
 
 
 ## Assignments:    
+
 **_Compose a short poem describing how HTTP sends data between computers._**
 
 **_Describe how HTML, CSS, and JS files are “parsed” in the browser._**
@@ -50,6 +51,7 @@
 <br>
 
 ## Links to the assigned reading for this class:
+
 [Getting Started With the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 
 [How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
@@ -85,3 +87,4 @@
 <br>
 
 ## Things I want to know more about
+
