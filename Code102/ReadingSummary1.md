@@ -35,7 +35,7 @@ As a result of all of the above, it has become extremely popular.
 + It is best to pick one within a file and stick with it throughout.
 + They can be nested by using indentation.
 
- `[ ]` surrounding the desired hyperlink displayed text followed immediately by `( )` surrounding the url creates a link
+ `[ ]` surrounding the text to be displayed followed immediately by `( )` surrounding the url creates a link
 
 + There should not be any space between the closing bracket and the opening parenthesis.  It should look like ](
 
@@ -46,4 +46,13 @@ As a result of all of the above, it has become extremely popular.
 
 <br>
 
+![swirly divider line](divider.gif)
+
 <br>
+
+### Links to the assigned reading:
+
+[An Overview of Markdown, How It Works, and What You Can Do With It](https://www.markdownguide.org/getting-started/)
+
+[Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
