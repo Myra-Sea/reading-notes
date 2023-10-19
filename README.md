@@ -6,7 +6,7 @@ Below you will find a collection of my reading journals for the school's softwar
 
 <br>
 
-## Code 102 Reading Notes -- Introduction to Software Development
+## ![Emoji medal with a star on it](medal102.jpg)  Code 102 Reading Notes -- Introduction to Software Development
 
 Class 1:  Markdown
 
@@ -29,7 +29,7 @@ Class 8:  [Operators and Loops](/Code102/Class8.md)
 
 <br>
 
-## Code 201 -- Foundations of Software Development
+## ![Emoji of a bronze medal](medal201.jpg)  Code 201 -- Foundations of Software Development
 
 Class 1:  [Internet Basics, Website Design, & Basics of HTML and JavaScript](/Code201/class-01.md)
 
@@ -63,7 +63,7 @@ Class 15:  [Placeholder 15](/Code201/File15.md)
 
 <br>
 
-## Code 301 -- Intermediate
+## ![Emoji of a silver medal](medal301.jpg)  Code 301 -- Intermediate
 
 Class 1:  [Placeholder 1](/Code301/File01.md)
 
@@ -97,7 +97,7 @@ Class 15:  [Placeholder 15](/Code301/File15.md)
 
 <br>
 
-## Code 401 -- Advanced
+## ![Emoji of a gold medal](medal401.jpg)  Code 401 -- Advanced
 
 Class 1:  [Placeholder 1](/Code401/File01.md)
 
