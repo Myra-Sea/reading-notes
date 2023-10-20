@@ -4,6 +4,8 @@
 
 Confirm you have an active chatbot account at OpenAI and Google Bard.  Ask your chatbot to explain a topic or something related to your previous work experience and see how accurate it is.
 
+Link to AI used: [ChatGPT](https://chat.openai.com/)
+
 ## Outcome:
 
 >User: Tell me about jesses on a bird
