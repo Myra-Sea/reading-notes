@@ -63,3 +63,38 @@ The following string of commands
 3. followed by then creating a new .md file named "newfile" inside of that newly created "new-project" folder
 4. followed by going back one level to the projects directory
 5. and will conclude by listing all of the contents of the "new project" folder that's inside of the projects directory.  The only content should be that single "newfile" .md file
+
+<br>
+
+![divider line](divider.gif)
+
+<br>
+
+## Lab results from running the following commands on my Mac's terminal
+
+| Request | Result |
+| ----- | ------ |
+| `code --version` | 1.80.0 |
+| `git --version` | 2.40.0 |
+| `node --version` | 2.40.0 |
+| `npm --version` | 9.6.2 |
+| `eslint --version` | v8.36.0 |
+| `tree --version` | v2.1.0 |
+
+<br>
+
+![divider line](divider.gif)
+
+<br>
+
+## Reading Assingments for this Class and Lab:
+
+[Computer Setup Instructions](https://codefellows.github.io/setup-guide/)
+
+[Choosing A Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+
+[The Command Line!](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
+[Linux Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+
+[About Files in Linux](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
