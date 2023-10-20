@@ -16,8 +16,8 @@ Four of the most important features for any text editor are:
 
 + Code Completion
   + Saves time and helps prevent coding errors
-+ Syntax Highlighting
-  + These color coding systems make it easier to read and faster to locate errors
++ Syntax Highlighting (via a system of color coding)
+  + Make it easier to read and faster to locate errors
 + Variety of Themes
   + Reduces eye strain and fatigue
 + Large variety of Extensions
