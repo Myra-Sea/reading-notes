@@ -87,7 +87,7 @@ The following string of commands
 
 <br>
 
-## Reading Assingments for this Class and Lab:
+## Reading assignments for this class and lab:
 
 [Computer Setup Instructions](https://codefellows.github.io/setup-guide/)
 
