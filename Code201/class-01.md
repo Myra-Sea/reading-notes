@@ -6,6 +6,28 @@ Plus, in any industry, it helps to be familiar with jargon and basic practices. 
 
 <br>
 
+## A Simplified View of How the Web Works
+
+The computers connected to the internet are either clients or servers.  A client sends requests to the server, and the server sends responses back to the client.
+
+_**Clients**_ are the combination of internet-accessing software (such as web browsers) on internet-connected devices the user has (such as a laptop or phone)
+
+_**Servers**_ are the computers storing websites, webpages, and apps.  It sends a copy of the webpage to the client to download for display
+
+An internet connection allows data to be sent and received across the internet.  Transmission Control Protocol (TCP) and Internet Protocol (IP) define how that data should travel (they can be thought of like transport mechanisms).  The Domain Name System (DNS) contains the addresses of websites so that a browser knows which server a website is contained within and can therefore send the HTTP messages to the correct location.  HyperText Transfer Protocol (HTTP) defines a language for clients and servers to speak to each other.
+
+Code files are the primary building blocks of websites.  Examples file types include HTML, CSS, and JavaScript.
+
+Asset files are the fluff and flair.  Examples include images, videos, PDF, and music files.
+
+**When a user types a web address into a browser, the following path is followed:**
+1. The browser goes to the DNS server to find the address
+2. The brower sends an HTTP request to the server for a copy of the website.  All requests and replies are sent using TCP/IP
+3. If the server approves the request a "200 OK" message is sent, followed by data packets (ie small chunks) of the website's files
+4. The browser then assembles the data packet chunks into a complete webpage and displays it to the user
+
+<br>
+
 ## Website Design Basics
 
 **Website creation tools used by professionals:**
