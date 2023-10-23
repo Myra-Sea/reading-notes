@@ -1,15 +1,75 @@
 # Internet Basics and Website Design
 
+Web developers often create websites, either professionally or in their hobby spare time.  Even when hired to edit an existing website, it is helpful to understand the best practices for creating websites, especially if working for a small company or anticipating solo contract work, because situations may arise such as needing to add new webpages or revamping an old site to a new look.
 
-## Assignments:    
+Plus, in any industry, it helps to be familiar with jargon and basic practices.  An understanding of terminology is vital to be able to seamlessly enter a new career.
+
+<br>
+
+## Website Design Basics
+
+**Website creation tools used by professionals:**
+
++ Laptop or desktop computer with Windows, macOS, or Linux
++ Text editor to write the code in, such as Visual Studio Code, VIM, Notepad++, Sublime Text, GNU Emacs, or a hybrid (examples: Dreamweaver or WebStorm)
++ Web browsers to test the code in.  For example, a text-based terminal web browser that allows you to see how a website is experience by visually-impaired users is [Lynx](https://lynx.browser.org/) (to use the current version still under development [click here](https://lynx.invisible-island.net/current/) ).
++ Graphics editor for creating images.  Examples include GIMP, Figma, Paint.NET, Photoshop, Sketch, or XD
++ Version control system to manage files on servers, collaborate with a team, share code and assets, and to help avoid editing conflicts.  Git is the most popular version control system.  A couple of hosting services are GitHub and GitLab.
++ FTP program to manage files on servers if it is an old web hosting account (Git has replaced FTP).  Examples include Cyberduck, Fetch, and FileZilla
++ Automation system to automatically perform repetitive tasks such as running tests.  Examples include Webpack, Grunt, or Gulp.
++ Libraries (typically a JavaScript or CSS file) to provide faster writing of common functionality within the code
++ Framework to offer a complete system with some custom syntaxes to write a web app on top of
+
+**When creating a website**
+
++ Keep all the related files inside a single folder that mirrors the published website's file structure.  The folder should be save in an easy-to-find location, such as the Desktop.
++ Avoid spaces within file names.  Hyphens are currently preferred instead of underscores because the Google search engine views hyphens as word sperators.
++ Computers are case-sensetive.  To avoid errors, be very cautious about saving folders or files using anything other than all undercase letters.
+
+**Additional website creation tips**
+
++ Before creating a website, take the time to plan and design it. Questions to answer include:
+	+ What will the website be about?
+  + What information will be presented? It is helpful to think of titles, a few paragraphs of descriptions, and possible images to use
+  + What will the website visually look like? Think about fonts, background colors, etc.
+  + Is a design guide / design system / brand book needed?  If it is a complex project then use one to lay out detailed guidelines on all the details
++ After design details are decided, sketch out the basic, rough design
++ Be carefult to avoid copyright issues with images and fonts (for example, use only [safe web fonts](https://web.mit.edu/jmorzins/www/fonts.html), or go to a site such as [Google Fonts](https://developers.google.com/fonts) to find fonts that have open source licenses)
++ Start assembling the content, such as hex codes
++ Create an `index.html` file to contain the homepage content
++ Create an `images` folder to contain all the images that will be used
++ Create a `styles` folder to contain the CSS code used to style the content
++ Create a `scripts` folder to contain the JavaScript code used to add interactive functionality to your site
+
+<br>
+
+## HTML Basics
+
++ HyperText Markup Language is the coding language used to structure a webpage and its contents.
++ To link to a target file in the same directory as the html file just use the filename (example: image.jpg)
++ To link to a target file in a subdirectory write the directory name in front of the path plus a forward slash (example: subdirectory/image.jpg)
++ To link to a target file in a directory **above** the html file write two dots (example: ../another-image.jpg)
++ The Windows file system tends to use backslashes, not forward slashes. However, this doesn't matter in HTML — even if you are developing your website on Windows. You should still use forward slashes in your code.
+
+<br>
+
+## Homework Assignments:    
 
 **_Compose a short poem describing how HTTP sends data between computers._**
 
-**_Describe how HTML, CSS, and JS files are “parsed” in the browser._**
+<br>
 
-**_How can you find images to add to a website?_**
+❓ **_Describe how HTML, CSS, and JS files are “parsed” in the browser._**
 
-**_How do you create a String vs a Number in JavaScript?_**
+<br>
+
+❓ **_How can you find images to add to a website?_**
+
+The fastest way is to use the image search page within an internet search engine.  To avoid copyright violations, it is best to set the usage rights of the results to "Public Domain," or if that is not an option (Google) then "Creative Commons licenses."  For basic details on the difference between the two, [follow this link.](http://www.differencebetween.net/business/difference-between-creative-commons-and-public-domain/)
+
+<br>
+
+❓ **_How do you create a String vs a Number in JavaScript?_**
 
 **_What is a Variable and why are they important in JavaScript?_**
 
