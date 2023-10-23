@@ -14,7 +14,7 @@ _**Clients**_ are the combination of internet-accessing software (such as web br
 
 _**Servers**_ are the computers storing websites, webpages, and apps.  It sends a copy of the webpage to the client to download for display
 
-An internet connection allows data to be sent and received across the internet.  Transmission Control Protocol (TCP) and Internet Protocol (IP) define how that data should travel (they can be thought of like transport mechanisms).  The Domain Name System (DNS) contains the addresses of websites so that a browser knows which server a website is contained within and can therefore send the HTTP messages to the correct location.  HyperText Transfer Protocol (HTTP) defines a language for clients and servers to speak to each other.
+An internet connection allows data to be sent and received across the internet.  Transmission Control Protocol (TCP) and Internet Protocol (IP) define how that data should travel (they can be thought of like transport mechanisms).  The Domain Name System (DNS) is a system of special servers that contains the numerical IP addresses of websites so that a browser knows which server a website is contained within and can therefore send the HTTP messages to the correct location.  HyperText Transfer Protocol (HTTP) defines a language for clients and servers to speak to each other.
 
 Code files are the primary building blocks of websites.  Examples file types include HTML, CSS, and JavaScript.
 
@@ -25,6 +25,8 @@ Asset files are the fluff and flair.  Examples include images, videos, PDF, and 
 2. The brower sends an HTTP request to the server for a copy of the website.  All requests and replies are sent using TCP/IP
 3. If the server approves the request a "200 OK" message is sent, followed by data packets (ie small chunks) of the website's files
 4. The browser then assembles the data packet chunks into a complete webpage and displays it to the user
+
+The small chunk data packets are used so that they can be more quickly/easily replaced if lost or corrupted.  Dividing into small pieces speeds up delivery, since they can be sent along different paths from each other.  Sending in small chunks also allows multiple users to download a website at once.
 
 <br>
 
@@ -82,12 +84,15 @@ Asset files are the fluff and flair.  Examples include images, videos, PDF, and 
 <br>
 
 ❓ **_Describe how HTML, CSS, and JS files are “parsed” in the browser._**
+After an internet browser receives its first chunk of data from a server, it turns it into the Document Object Model (DOM) and CSS Object Model (CSSOM), so that the information can be presented visually to the user as a page.  The HTML is parsed first, which leads the browser to recognize any `<link>` element references to external CSS stylesheets and any `<script>` references such as JavaScript files.  The browser then requests from the server any CSS files referenced in the `<link>` elements and any JavaScript files referenced in the `<script>` elements.  After it receives those from the server, it can then analyze and interpret them.  The browser generates an in-memory DOM tree from the parsed HTML, an in-memory CSSOM structure from the parsed CSS, and compiles then executes the parsed JavaScript.
+
+As all of that happens, the browser builds a visual representation of the contents onto the computer screen, which the user can see and begin to interact with.
 
 <br>
 
 ❓ **_How can you find images to add to a website?_**
 
-The fastest way is to use the image search page within an internet search engine.  To avoid copyright violations, it is best to set the usage rights of the results to "Public Domain," or if that is not an option (Google) then "Creative Commons licenses."  For basic details on the difference between the two, [follow this link.](http://www.differencebetween.net/business/difference-between-creative-commons-and-public-domain/)
+The fastest way is to use the image search page within an internet search engine.  To avoid copyright violations, it is best to set the license usage rights of the results to "Public Domain," or if that is not an option (Google) then "Creative Commons licenses."  For basic details on the difference between the two, [follow this link.](http://www.differencebetween.net/business/difference-between-creative-commons-and-public-domain/)
 
 <br>
 
