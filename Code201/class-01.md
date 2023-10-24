@@ -8,7 +8,7 @@ Plus, in any industry, it helps to be familiar with jargon and basic practices. 
 
 | Jump within this page to: |
 | ------ |
-| 🌐 [How the Web Works](https://github.com/Myra-Sea/reading-notes/edit/main/Code201/class-01.md#-a-simplified-view-of-how-the-web-works-) | 
+| 🌐 [How the Web Works](https://github.com/Myra-Sea/reading-notes/Code201/class-01.md#-a-simplified-view-of-how-the-web-works-) | 
 | ✨ 🖥️ ✨ [Website Design](https://myra-sea.github.io/reading-notes/Code201/class-01.html#-%EF%B8%8F--website-design-basics) |
 | HTML |
 
