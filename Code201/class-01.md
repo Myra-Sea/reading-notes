@@ -8,12 +8,12 @@ Plus, in any industry, it helps to be familiar with jargon and basic practices. 
 
 | Jump within this page to: |
 | ------ |
-| 🌐 [How the Web Works](https://github.com/Myra-Sea/reading-notes/Code201/class-01.md#-a-simplified-view-of-how-the-web-works-) | 
+| 🌐 [How the Web Works](https://myra-sea.github.io/reading-notes/Code201/class-01.html#-a-simplified-view-of-how-the-web-works-) | 
 | ✨ 🖥️ ✨ [Website Design](https://myra-sea.github.io/reading-notes/Code201/class-01.html#-%EF%B8%8F--website-design-basics) |
-| 👩‍💻 [HTML](https://github.com/Myra-Sea/reading-notes/edit/main/Code201/class-01.md#-html-basics) |
-| 👩🏾‍💻 [JavaScript](https://github.com/Myra-Sea/reading-notes/edit/main/Code201/class-01.md#-javascript) |
-| 📝 [Homework Assignments](https://github.com/Myra-Sea/reading-notes/edit/main/Code201/class-01.md#-homework-assignments) |
-| 📚 [Links to the assigned reading](https://github.com/Myra-Sea/reading-notes/edit/main/Code201/class-01.md#-links-to-the-assigned-reading) |
+| 👩‍💻 [HTML](https://myra-sea.github.io/reading-notes/Code201/class-01.html#-html-basics) |
+| 👩🏾‍💻 [JavaScript](https://myra-sea.github.io/reading-notes/Code201/class-01.html#-javascript) |
+| 📝 [Homework Assignments](https://myra-sea.github.io/reading-notes/Code201/class-01.html#-homework-assignments) |
+| 📚 [Links](https://myra-sea.github.io/reading-notes/Code201/class-01.html#-links-to-the-assigned-reading) |
 
 <br>
 
