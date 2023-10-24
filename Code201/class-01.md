@@ -100,7 +100,24 @@ Insert info here
 
 ## 📝 Homework Assignments:    
 
-**_Compose a short poem describing how HTTP sends data between computers._**
+❓ **_Compose a short poem describing how HTTP sends data between computers._**
+
+Oh, HTTP
+
+You are much like me
+
+Needing to pay attention to a system of rules
+
+Shaping the format of your communication tools
+
+As you scurry back and forth
+
+Betwixt the recipient and the server source
+
+You define a language with which to speak
+
+For the data that we seek
+
 
 <br>
 
@@ -189,10 +206,3 @@ The fastest way is to use the image search page within an internet search engine
 <br>
 
 [Defining JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-
-<br>
-
-<br>
-
-## Things I want to know more about
-
