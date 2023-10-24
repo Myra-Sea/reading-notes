@@ -18,7 +18,7 @@ Understanding proper coding formatting and structure is vital to writing good, f
 
 ## 👩🏻‍💻 HTML Text Fundamentals
 
-Regardless of the medium it's being read/written on, most structured text consists of headings and paragraphs.  This is the case, whether reading an old fashioned newspaper, chapters in a printed book, or product reviews on a website.  When writing HTML code, headings can be wrapped in heading elements, such as `<h1>` ... `</h1>` for example. Paragraphs can be wrapped in `<p>` ... `</p>` elements.
+HTML is a language made up of what are called "elements," which can be applied to pieces of text to give them different placement assignments (inside a paragraph, inside a bulleted list, etc.), provide structure to a document (create headers, multiple columns, navigation menus, etc.), or embed images (such as videos). Regardless of the medium it's being read/written on, most structured text consists of headings and paragraphs.  This is the case, whether reading an old fashioned newspaper, chapters in a printed book, or product reviews on a website.  When writing HTML code, headings can be wrapped in heading elements, such as `<h1>` ... `</h1>` for example. Paragraphs can be wrapped in `<p>` ... `</p>` elements.
 
 ## 👨🏻‍💻 HTML Text Formatting
 
