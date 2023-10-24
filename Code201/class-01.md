@@ -6,7 +6,15 @@ Plus, in any industry, it helps to be familiar with jargon and basic practices. 
 
 <br>
 
-## A Simplified View of How the Web Works
+| Jump within this page to: |
+| ------ |
+| 🌐 [How the Web Works](https://myra-sea.github.io/reading-notes/Code201/class-01.html#a-simplified-view-of-how-the-web-works) | 
+| ✨ 🖥️ ✨ [Website Design](https://myra-sea.github.io/reading-notes/Code201/class-01.html#website-design-basics) |
+| HTML |
+
+<br>
+
+## 🌐 A Simplified View of How the Web Works 🌐
 
 The computers connected to the internet are either clients or servers.  A client sends requests to the server, and the server sends responses back to the client.
 
@@ -30,7 +38,7 @@ The small chunk data packets are used so that they can be more quickly/easily re
 
 <br>
 
-## Website Design Basics
+## ✨ 🖥️ ✨ Website Design Basics
 
 **Website creation tools used by professionals:**
 
@@ -70,6 +78,10 @@ The small chunk data packets are used so that they can be more quickly/easily re
 ## HTML Basics
 
 + HyperText Markup Language is the coding language used to structure a webpage and its contents.
++ HTML uses _**elements**_ that enclose the content in order to make it appear or act a certain way. Elements are created using _**tags**_.
+  + For example, a paragraph element uses the tags `<p>` and `</p>`.
+  + So, as an example of what comprises an element, in the following HTML code: `<p>A sentence goes here.</p>` the _**opening tag**_ is `<p>` , the _**closing tag**_ is `</p>` , and the _**content**_ is `A sentence goes here.` All together, the opening tag, closing tag, and content, comprise the element.
+  + Other examples of what tags can do include: creating a hyperlink, italicizing a word, changing the size of font, etc.
 + To link to a target file in the same directory as the html file just use the filename (example: image.jpg)
 + To link to a target file in a subdirectory write the directory name in front of the path plus a forward slash (example: subdirectory/image.jpg)
 + To link to a target file in a directory **above** the html file write two dots (example: ../another-image.jpg)
