@@ -1,4 +1,4 @@
-# Internet Basics and Website Design
+# 🏵️ Internet Basics and Website Design 🏵️
 
 Web developers often create websites, either professionally or in their hobby spare time.  Even when hired to edit an existing website, it is helpful to understand the best practices for creating websites, especially if working for a small company or anticipating solo contract work, because situations may arise such as needing to add new webpages or revamping an old site to a new look.
 
@@ -10,7 +10,10 @@ Plus, in any industry, it helps to be familiar with jargon and basic practices. 
 | ------ |
 | 🌐 [How the Web Works](https://github.com/Myra-Sea/reading-notes/Code201/class-01.md#-a-simplified-view-of-how-the-web-works-) | 
 | ✨ 🖥️ ✨ [Website Design](https://myra-sea.github.io/reading-notes/Code201/class-01.html#-%EF%B8%8F--website-design-basics) |
-| HTML |
+| 👩‍💻 [HTML](https://github.com/Myra-Sea/reading-notes/edit/main/Code201/class-01.md#-html-basics) |
+| 👩🏾‍💻 [JavaScript](https://github.com/Myra-Sea/reading-notes/edit/main/Code201/class-01.md#-javascript) |
+| 📝 [Homework Assignments](https://github.com/Myra-Sea/reading-notes/edit/main/Code201/class-01.md#-homework-assignments) |
+| 📚 [Links to the assigned reading](https://github.com/Myra-Sea/reading-notes/edit/main/Code201/class-01.md#-links-to-the-assigned-reading) |
 
 <br>
 
@@ -75,7 +78,7 @@ The small chunk data packets are used so that they can be more quickly/easily re
 
 <br>
 
-## HTML Basics
+## 👩‍💻 HTML Basics
 
 + HyperText Markup Language is the coding language used to structure a webpage and its contents.
 + HTML uses _**elements**_ that enclose the content in order to make it appear or act a certain way. Elements are created using _**tags**_.
@@ -89,7 +92,13 @@ The small chunk data packets are used so that they can be more quickly/easily re
 
 <br>
 
-## Homework Assignments:    
+## 👩🏾‍💻 JavaScript
+
+Insert info here
+
+<br>
+
+## 📝 Homework Assignments:    
 
 **_Compose a short poem describing how HTTP sends data between computers._**
 
@@ -149,7 +158,7 @@ The fastest way is to use the image search page within an internet search engine
 
 <br>
 
-## Links to the assigned reading for this class:
+## 📚 Links to the assigned reading:
 
 [Getting Started With the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 
