@@ -6,45 +6,67 @@
 
 ❓ To create a basic link, we wrap text or other content inside what element?
 
-
+An `<a>` element
 
 ❓ The `href` attribute contains what information?
 
-
+The website address that is being linked to.  It is an attribute of the `<a>` element.  It is also known as a **Hypertext Reference** or a **target**
 
 ❓ What are some ways we can ensure links on our pages are accessible to all readers?
 
-
+* For the sake of visual readers:  Use descriptive link text
+* For the sake of search engines:  Include keywords in the link text
+* For the sake of screen readers:  Don't inlucde the word "link" nor "link to" in the link text. Screen readers already tell the visually impaired that fact
+* For the sake of screen readers:  Keep the link text as short as possible
+* For the sake of screen readers:  Don't repeat the URL as part of the link text.  It sounds horrible when screen readers spell them out
+* For the sake of screen readers:  Minimize having multiple copies of the same text linked to different places
+* Reduce confusion for all: Add clear wording to reduce any confusion about links that will cause a donwnload, live stream, or other potentially unexpected effect (such as a pop-up window)
 
 <br>
 
 ❓ What is meant by “normal flow”?
 
-
+The way that elements lay themselves out on a webpage is you don't change anything about them with CSS.  It is designed to make the content readable even if the user is on a limited browser or screen reader device.
 
 ❓ What are a few differences between block-level and inline elements?
 
+**Block-level elements** 
 
+**Inline elements**
 
 ❓ ___ positioning is the default for every html element.
 
-
+Static.  It puts the html link in its normal position in the document flow.
 
 ❓ Name a few advantages to using absolute positioning on an element.
 
-
+* The dev can specify the distance the element should be from each of the containing element's sides
+* An element with absolute positioning exists on its own layer separate from everything else.  That means the dev can create isolated user interface features that don't interfere with the layout of other elements on the page.
 
 ❓ What is a key difference between fixed positioning and absolute positioning?
+
+**Absolute positioning** fixes an element in place relative to its nearest ancester or initial containing block
+
+**Fixed positioning** fixes an element in place relative to the visible portion of the viewport.  This means useful user-interface items (like navigation menus) can be fixed in place to always be visible no matter where on the page the user scrolls to
 
 <br>
 
 ❓ Describe the difference between a function declaration and a function invocation.
 
+**Declaration** is the first step.  It is the act of assigning a name (and possibly parameters and/or statements) to a function that's being created
 
+**Invocation** is the act of using a function by including the name of the function in the code somewhere, followed by a set of parentheses 
 
 ❓ What is the difference between a parameter and an argument?
 
+A **parameter** is a value (which is included inside of the parentheses) needed for a function to do its job correctly. The required reading says that sometimes parameters are refered to as being arguments.
 
+An **argument** is a value being passed to (or from) a function. 
+[(Source of the following quote:)](https://www.w3schools.com/js/js_function_parameters.asp)
+> The parameters, in a function call, are the function's arguments.
+> JavaScript arguments are passed by value: The function only gets to know the values, not the argument's locations.
+> If a function changes an argument's value, it does not change the parameter's original value.
+> Changes to arguments are not visible (reflected) outside the function.
 
 <br>
 
