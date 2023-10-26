@@ -30,9 +30,9 @@ The way that elements lay themselves out on a webpage is you don't change anythi
 
 ❓ What are a few differences between block-level and inline elements?
 
-**Block-level elements** 
+**Block-level elements** involve boxes laid out one after the other, vertically, beginning at the top of a containing block.  Each block-level element always starts on a new line.  It fills the available space of the parent element that is containing it.  It occupies the entire horizontal space of its parent element container and vertical space equal to the height of its contents.
 
-**Inline elements**
+**Inline elements**, on the other hand, are restricted to being only the size of their contents.  Most text sequences and generated content are in-line level by default.  They don't appear on new lines.  Instead, they all sit on the same line along with any adjacent (or wrapped) text content as long as there is space for them to do so inside the width of the parent block level element.
 
 ❓ ___ positioning is the default for every html element.
 
@@ -72,7 +72,7 @@ An **argument** is a value being passed to (or from) a function.
 
 ❓ Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
 
-
+I like the greater efficiency (higher quality code) that comes from two sets of eyes and two brains focusig on creating the same work. It is also exciting to have the opportunity to learn from other students who may have a different solution/approach than myself. I also like the job interview and workplace environment readiness aspects of paired programming.
 
 <br>
 
