@@ -1,3 +1,5 @@
-# Title
+# JavaScript Object Basics, Problem Domain, and the DOM
 
-To be filled in later
+## 📝 Homework Assignments:
+
+## 📚 Links to the Assigned Reading:
