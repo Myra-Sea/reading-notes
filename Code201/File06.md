@@ -1,4 +1,4 @@
-# JavaScript Object Basics, Problem Domain, and the DOM
+# 🦚 JavaScript Object Basics, Problem Domain, & DOM 🦚
 
 ## 📝 Homework Assignments:
 
