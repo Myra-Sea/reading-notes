@@ -4,8 +4,8 @@
 | ------ |
 |[102 Notes](https://myra-sea.github.io/reading-notes/quick.html#-notes-from-102)|
 |[201 - HTML Basics](https://myra-sea.github.io/reading-notes/quick.html#-html-basics)|
-|201 - HTML Text Fundamentals|(#)
-|201 - HTML Text Formatting|(#)
+|[201 - HTML Text Fundamentals](https://myra-sea.github.io/reading-notes/quick.html#-html-text-fundamentals) |
+|[201 - HTML Text Formatting](https://myra-sea.github.io/reading-notes/quick.html#-html-text-formatting) |
 
 <br>
 
