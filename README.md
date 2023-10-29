@@ -135,7 +135,9 @@ Class 15:  [Placeholder 15](/Code401/File15.md)
 
 ## Quick Links:
 
-🦦 [HTML](/quick.md)
+🦦 [HTML](/quickHTML.md)
+
+🦡 [CSS](quickCSS.md)
 
 <br>
 
