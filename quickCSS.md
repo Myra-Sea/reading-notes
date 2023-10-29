@@ -37,9 +37,9 @@ A typical, highly readable choice when writing the code is like this:
 There are three way to be able to incorporate CSS into an HTML file
 * External Stylesheet:  The industry best practice of putting all the CSS into its own separate file
 * Internal Styles:  Places the CSS code itself directly inside of the HTML document
-* Inline **STYLES**:  Places the instructions inside the element itself. It will therefore be written in HTML
+* Inline **Styles**:  Places the instructions inside the element itself. It will therefore be written in HTML
 
-With incorporating using an **external stylesheet**, use the following HTML format.  Best practice is to place this in the head section:
+With incorporating CSS using an **external stylesheet**, use the following format in the HTML file.  Best practice is to place this in the head section:
 `<link rel="stylesheet" href="style.css">`
 Meaning:  link (What is it being linked to? Answer: a stylesheet) href (name of your CSS file)
 + Each html file within the website would need that set of instructions placed in the head.
