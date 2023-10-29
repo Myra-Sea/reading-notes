@@ -139,6 +139,8 @@ Class 15:  [Placeholder 15](/Code401/File15.md)
 
 🦡 [CSS](quickCSS.md)
 
+🦨 [JavaScript](quickJS.md)
+
 <br>
 
 ## Other Helpful Links:
