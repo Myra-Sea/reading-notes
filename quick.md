@@ -1,6 +1,13 @@
 # 🦄 Below are copies of the HTML-related content of all my reading notes so far 🦄
 
-## From 102:
+|Table of Contents|
+| ------ |
+|102 Notes|
+|201 - HTML Basics|
+
+<br>
+
+## 🧱 Notes From 102:
 
 + HTML consists of elements that are made up of 3 parts: an **opening tag**, the **content** that will appear on the page, and a **closing tag**.
 + Extra information, such as styling, can be added using _**attributes.**_
@@ -9,9 +16,13 @@
 + The _**head**_ contains instructions for the browser that the user doesn't see on the page itself
   +  For example, what _**title**_ the browser should display in the tab.
 + The _**body**_ is everything that the user sees on the webpage itself.
-  + A _**header**_ is not required but is good practice to have on a page.
+  + A _**header**_ is not required but is good practice to have on a page.  That's because usually the header stays the same between pages; thereby easily allowing the user to know that they are still on the same website.
   + The _**main**_ contains the majority of the page's content.
-  + A _**footer**_ is not required but is good practice to have on a page.
+  + A _**footer**_ is not required but is good practice to have on a page.  That's becaues the footer doesn't usually change between pages.  Thus easily allowing the user to know that they are still on the same website.
+  + In the early stage of creating a website, if you want to create a temporary placeholder for a link but do not yet want to fill in the link itself yet, you can use a `/` or a `#` inside the `href` quotation marks.
+    + For example,  `<a href="#">Link 2</a>` creates a temporary placeholder that looks like this: [Link 2](#)
+
+<br>
 
 ## 👩‍💻 HTML Basics
 
