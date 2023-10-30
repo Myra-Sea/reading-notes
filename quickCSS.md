@@ -4,8 +4,6 @@
 
 CSS is the language used for styling HTML elements.  If you don't have the HTML element in your HTML file then you will never see that specific CSS style instruction.
 
-Classes and IDs are used in CSS to target specific HTML elements in order to style them.
-
 CSS defines rules that will be applied to HTML elements.  It defines the rule that will be used when you reference either that element or that unique CSS tag.
   + For example, if you wanted to make the text of all paragraphs on the page red colored, the CSS code would be `p {color: red}`
 
@@ -32,22 +30,26 @@ A typical, highly readable line break choice when writing the code is like this:
 >
 >}
 
-**ALL** elements are made up of 4 areas, each nested inside of the last one, forming the _**CSS Box Model**_:  Margin (on the outside), Border, Padding, and Content (on the inside)
+**ALL** elements are made up of 4 areas, each nested inside of the last one, forming the _**CSS Box Model**_:  
++ Margin (the outside-most one)
++ Border
++ Padding
++ Content (the inside-most one)
 
 Use of a `*` as the selector means that the values will be applied to all html elements on the page.  For example, writing `* { border: 2px solid black;}` would result in being able to clearly see the box outline of every element on the page.
 
-There are a few different ways you can set up the CSS rules to apply to the HTML page, depending on your styling needs:
+There are a few different ways you can set up the CSS rules to apply to the HTML page, depending on your styling needs. Classes and IDs are used in CSS to target specific HTML elements in order to style them, but you can also apply CSS rules page-wide:
 
 + A single setting can be applied to all instances of a standard, typical element (like paragraph `<p>` tags, for instance) on the page
   + For example, `li {background-color: purple;}` would make the background of ALL list items on the page purple in color
-  + `img {width: 50%;}` would make all images on the page 50% the size of their parent container
-  + Nesting can also be done within this method.  So, for example, `main img {width: 50%;}` would cause all the images within the main to be 50% of the size of their parent container, and `main section img {width: 50%;}` would cause all the images within the section portions of the main to be 50% of the size of their parent container, etc. etc.
+  + `img {width: 50%;}` would make all images on the page 50% the width of their parent container
+  + Nesting can also be done within this method.  So, for example, `main img {width: 50%;}` would cause all the images within the main to be 50% of the width of their parent container, and `main section img {width: 50%;}` would cause all the images within the section portions of the main to be 50% of the width of their parent container, etc. etc.
   + Nesting is helpful when it comes to setting values for only navigation menu contents because there tends to only be one navigation menu per page.  So, for instance, the links inside the navigation menu, which use an unordered list format (`<nav>   <ul>  <li><a href="url">Link 1</a></li>    <li><a href="url">Link 2</a></li>   <li><a href="url">Link 3</a></li>   </ul>   </nav>`) can be easily targeted with their `<li>` tags because they are inside of the `<nav>` tags.  The CSS would be `nav li {...}`
 
 + **Classes** can be used multiple times.  This is helpful for making multiple pieces of the HTML to look the same.
   + For example, you can create one single CSS definition of `.NameOfClass {property: value;}` and then mulitple times in the HTML use `<section class="NameOfClass">.....</section>`
 
-+ **IDs**, on the other hand, are unique.  The name you create should not be in use anywhere else in the HTML or CSS code.
++ **IDs**, on the other hand, are unique.  The name you create should not be used anywhere else in the HTML or CSS code.
   + This format uses `#` in the CSS and the attribute `id` in the HTML
   + For example, if you wanted an orange background for only the top portion of the main, in the HTML file you could write `<section id="top-section">` and then in the CSS file you would write `#top-section {background-color: orange;}`
   + Nesting can also be done using a section id.  So, for example, `#top-section img {width: 25%;}` would cause all the images inside of only the top-section labelled elements to be 50% the width of that container.
