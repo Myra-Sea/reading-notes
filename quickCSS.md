@@ -44,9 +44,10 @@ There are a few different ways you can set up the CSS rules to apply to the HTML
   + Nesting can also be done within this method.  So, for example, `main img {width: 50%;}` would cause all the images within the main to be 50% of the size of their parent container, and `main section img {width: 50%;}` would cause all the images within the section portions of the main to be 50% of the size of their parent container, etc. etc.
   + Nesting is helpful when it comes to setting values for only navigation menu contents because there tends to only be one navigation menu per page.  So, for instance, the links inside the navigation menu, which use an unordered list format (`<nav>   <ul>  <li><a href="url">Link 1</a></li>    <li><a href="url">Link 2</a></li>   <li><a href="url">Link 3</a></li>   </ul>   </nav>`) can be easily targeted with their `<li>` tags because they are inside of the `<nav>` tags.  The CSS would be `nav li {...}`
 
-+ **Classes** can be used multiple times
++ **Classes** can be used multiple times.  This is helpful for making multiple pieces of the HTML to look the same.
+  + For example, you can create one single CSS definition of `.NameOfClass {property: value;}` and then mulitple times in the HTML use `<section class="NameOfClass">.....</section>`
 
-+ **IDs**, on the other hand, are unique.  The name you create should not be in use anywhere else in the hTML or CSS code.
++ **IDs**, on the other hand, are unique.  The name you create should not be in use anywhere else in the HTML or CSS code.
   + This format uses `#` in the CSS and the attribute `id` in the HTML
   + For example, if you wanted an orange background for only the top portion of the main, in the HTML file you could write `<section id="top-section">` and then in the CSS file you would write `#top-section {background-color: orange;}`
   + Nesting can also be done using a section id.  So, for example, `#top-section img {width: 25%;}` would cause all the images inside of only the top-section labelled elements to be 50% the width of that container.
@@ -80,6 +81,13 @@ To make an image have rounded edges, use `border-radius` as the property and the
 Every HTML element has a default display value. Two display value styles are:
 + **Block** level elements are stacked one on top of each other, like building blocks.
 + **Inline** elements
+
+The `float` value will cause an element to float on top of every surrounding element on the page.  Sort of like the "behind text" or "in front of text" setting with images in MS Word.
+
+To get rid of the bullet icon on an unordered list item, you can use `text-decoration: none;`
+
+So to cause all of the list items in the navigation menu to sit side-by-side and not have the bullet icons alongside them, you would write:
+`nav li {display: inline-block;   text-decoration: none; } `
 
 [Click here](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Ffeel-the-difference-v0-ndvzegr4jzla1.jpg%3Fs%3Df68eeb10ac44c162c1a1a7f8ec5e3fbca4f1b466) for a meme demonstrating the relationship between HTML versus CSS.
 
