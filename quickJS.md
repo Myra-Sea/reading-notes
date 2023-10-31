@@ -2,38 +2,53 @@
 
 ## 📺 102 Lecture Notes:
 
-JavaScript is the user interface action interactivity.  It is interactive, unlike HTML which is the static structure, or CSS which is static styling.
+JavaScript delivers user interface action.  JavaScript is interactive, unlike HTML which is the static structure, or CSS which is static styling.
 
-It is personalized for the user's experience.  Based on input, we will get different output.  Its purpose is to take information and do something with it based on the programming code that is written.
+It is personalized for the user's experience.  Based on input, we will get different output.  Its purpose is to take information and do something with it based on the programming code.
 
-It is a rare gem in that it is used in both front end AND back end programming.
+ JavaScript is a rare gem in that it is used in both front end AND back end programming.
 
-JavaScript has its own language syntax rules:
-+ **Variables** are containers for holding onto information
+JavaScript has its own language syntax rules
+
+**Variables** are containers for holding onto information
   + You get to make the container
   + You get to decide the information
   + You get to decide what to do with that information
   + An analogy would be that a moving box with the label "Kitchen" on it would be expected to contain contents related to the kitchen 
-+ **Conditional**
-+ Each line of JavaScript should end with a semicolon `;`
+
+**Conditional**
+
+Each line of JavaScript should end with a semicolon `;`
 
 4 Ways to Declare a Variable
 * _**let**_ is used if the variable can be changed
-* _**const**_
+* _**const**_ is used if the variable can NOT be changed
 * _**var**_ is an antique way of declaring variables.  It should be avoided because nowadays it may give unexpected results
-* (no key word)
+* (no keyword) is a bad way of declaring a variable and should be avoided 
 
 Dynamic components are part of JavaScript but not all JavaScript is a dynamic component
 
-JavaScript will work no matter where you place it within an HTML file.  It will run and thereby write the code wherever you place it.  So, for example, if you place a `document.write` command inside the header, the text will appear in the header, but if you place that same command below the `</main>` then it will be written below the main, or if you put the same command inside of the footer then the text would appear in th footer.
+JavaScript will work no matter where you place it within an HTML file.  It will run and thereby write the code in the location in which you place it.  So, for example, if you place a `document.write` command inside the header that text will appear in the header, but if you place that same command below the `</main>` then it will be written below the main, or if you put the same command inside of the footer then the text would appear in the footer.
 
 JavaScript can be added to website files in muliple ways
 + External file
   + Typically the file is called `app.js` or `script.js`
+  + Link the external file using the command `<script src ="ScriptFileNameHere"></script>` Using the typical file name that will be `<script src="script.js"></script>` REMEMBER: Wherever you create the link within your HTML file is where the browser will run it.  A good place for it within the Course 102 labs is at the start of the `<body>` because we want the browser to run the entirety of our 102 lab JavaScript files before loading the visible elements of the webpage.
   + This method is best practice 
 + Internal JavaScript:  It can be added directly inside an HTML file by using the HTML tag `<script>...</script>`
   + The contents inside the HTML script element would be written in pure JavaScript
   + This method is NOT good practice
+
+<br>
+
+Data Types
+* _**String**_ is text
+  * When writing the code, it will be surrounded in quotes.  JavaScript prefers single quotes to be used `'`
+  * Examples: 'Myra' , 'two' , '2' , 'one hundred and twenty' , '120'
+* _**Number**_ is strictly equal to the numerical value
+  * Do not use quotation marks
+  * Examples: 2 , 120
+* _**Boolean**_ data types are only either TRUE or FALSE
 
 <br>
 
@@ -59,6 +74,11 @@ Basic JavaScript Commands (ie. Basic Functions & Methods):
   + Then the equal sign `=`
   + Then whatever value you would like to give the variable
   + Example: `let myName = 'Myra';`
+  + The value of the variable can be changed by reassigning it.  For example, `let myName = 'Myra';` can be changed in a later line of code to `myName = 'Sam';`
++ _**const**_
+  + Example: `const myName = 'Myra';` will retain the value "Myra" even if on a later line you wrote `myName = 'Sam';`  In fact, it would cause an error message that would stop the program from running at that point in the code.
+
+As soon as JavaScript encounters an error, it will stop running and you will never see anything that is in the code after the error
 
 <br>
 
