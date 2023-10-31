@@ -1,6 +1,6 @@
-# 🦓 Below are copies of the CSS-related content of all my reading notes so far 🦓
+# 🦓 Below are copies of all my CSS-related notes so far 🦓
 
-## 102 Lecture Notes
+## 📺 102 Lecture Notes
 
 CSS is the language used for styling HTML elements.  If you don't have the HTML element in your HTML file then you will never see that specific CSS style instruction.
 
