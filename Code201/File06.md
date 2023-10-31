@@ -66,7 +66,7 @@ The DOM is a Web API used to build websites.  It is not a programming language. 
 
 JavaScript is the language used, whereas the DOM is what is used to access the document and its elements.  Without the DOM, the JavaScript language wouldn't have any model or notion of web pages, HTML documents, SVG documents, and their component parts.
 
-Even though most web developers will only use the DOM through JavaScript, impelementations of the DOM can be built for any language.
+Even though most web developers will only use the DOM through JavaScript, implementations of the DOM can be built for any language.
 
 <br>
 
