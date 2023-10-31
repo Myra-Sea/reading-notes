@@ -46,6 +46,8 @@ There are a few different ways you can set up the CSS rules to apply to the HTML
   + Nesting can also be done within this method.  So, for example, `main img {width: 50%;}` would cause all the images within the main to be 50% of the width of their parent container, and `main section img {width: 50%;}` would cause all the images within the section portions of the main to be 50% of the width of their parent container, etc. etc.
   + Nesting is helpful when it comes to setting values for only navigation menu contents because there tends to only be one navigation menu per page.  So, for instance, the links inside the navigation menu, which use an unordered list format (`<nav>   <ul>  <li><a href="url">Link 1</a></li>    <li><a href="url">Link 2</a></li>   <li><a href="url">Link 3</a></li>   </ul>   </nav>`) can be easily targeted with their `<li>` tags because they are inside of the `<nav>` tags.  The CSS would be `nav li {...}`
 
+A **Universal Selector** can be applied to the entire page by using `*` in front of the `{}`
+
 + **Classes** can be used multiple times.  This is helpful for making multiple pieces of the HTML to look the same.
   + For example, you can create one single CSS definition of `.NameOfClass {property: value;}` and then mulitple times in the HTML use `<section class="NameOfClass">.....</section>`
 
@@ -76,7 +78,8 @@ Any inline styles written in the code after internal styles would replace the in
 + **RGB** value (amount of red coloration, amount of green, amount of blue)
 + **HSV** percentage (the location in degrees of the hue on the [color wheel](https://en.wikipedia.org/wiki/Color_wheel), % darkness, % lightness)  
 + **HSL** percentage
-+ **HEX** code 
++ **HEX** code
+  + A HEX code can be shorthanded from 6 digits into 3 digits if they repeat.  For example `#2233FF` can be shorthanded to just `#23F`
 
 To make an image have rounded edges, use `border-radius` as the property and then set a % value.
 
