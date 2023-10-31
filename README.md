@@ -45,21 +45,21 @@ Class 5:  [Images, Color, & Text Styling](/Code201/File05.md)
 
 Class 6:  [JavaScript Object Basics, Problem Domain, and the DOM](/Code201/File06.md)
 
-Class 7:  [Placeholder 7](/Code201/File07.md)
+Class 7:  [HTML Tables & JS Constructor Functions](/Code201/File07.md)
 
-Class 8:  [Placeholder 8](/Code201/File08.md)
+Class 8:  [Layout with CSS](/Code201/File08.md)
 
-Class 9:  [Placeholder 9](/Code201/File09.md)
+Class 9:  [Forms and Events](/Code201/File09.md)
 
-Class 10:  [Placeholder 10](/Code201/File10.md)
+Class 10:  [Debugging and Error Handling](/Code201/File10.md)
 
-Class 11:  [Placeholder 11](/Code201/File11.md)
+Class 11:  [Audio and Video in HTML; Domain Modeling Revisited](/Code201/File11.md)
 
-Class 12:  [Placeholder 12](/Code201/File12.md)
+Class 12:  [ChartJS and Canvas](/Code201/File12.md)
 
-Class 13:  [Placeholder 13](/Code201/File13.md)
+Class 13:  [Introduction to Persistence with Local Storage](/Code201/File13.md)
 
-Class 14:  [Placeholder 14](/Code201/File14.md)
+Class 14:  [Documentation, Project Selection, & Team Workflow](/Code201/File14.md)
 
 Class 15:  [Placeholder 15](/Code201/File15.md)
 
