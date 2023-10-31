@@ -21,6 +21,7 @@
   + Using semantic elements helps other coders to understand the structure of your website when reading your code.  For example, it would be possible for the top of your website's code to be named "footer" and a web broswer could still operate fine with that if you told it to (putting the "footer" labelled content at the top of the user's screen), but doing that would make no sense to a person who is looking only at your code.
 + The _**head**_ contains instructions for the browser that the user doesn't see on the page itself
   +  For example, what _**title**_ the browser should display in the tab.
+  +  NEVER PLACE ANYTHING BETWEEN THE HEAD AND THE BODY
 + The _**body**_ is everything that the user sees on the webpage itself.
   + A _**header**_ is not required but is good practice to have on a page.  That's because usually the header stays the same between pages; thereby easily allowing the user to know that they are still on the same website.
   + The _**main**_ contains the majority of the page's content.
