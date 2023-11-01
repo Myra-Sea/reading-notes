@@ -1,4 +1,4 @@
-# 🐥 Readings: CSS Layout 🐥
+# 🐥 Readings: CSS Layout Using Flexbox 🐥
 
 ## 📝 Homework Assignments:
 
