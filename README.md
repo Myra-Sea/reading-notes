@@ -47,7 +47,7 @@ Class 6:  [JavaScript Object Basics, Problem Domain, and the DOM](/Code201/File0
 
 Class 7:  [HTML Tables & JS Constructor Functions](/Code201/File07.md)
 
-Class 8:  [Layout with CSS](/Code201/File08.md)
+Class 8:  [Layout with CSS Flexbox](/Code201/File08.md)
 
 Class 9:  [Forms and Events](/Code201/File09.md)
 
