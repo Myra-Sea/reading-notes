@@ -14,11 +14,9 @@ The `<video>` element allows devs to easily embed a video onto a webpage.  The `
 
 If the broswer accessing the webpage is unable to support the `<video>` element (such as if it is an old broswer), that text content will alert the user to the fact that the video can't play.  It is suggested that a link to the video be given within that text so that the user can manually navigate to the other page to watch it.
 
-❓ Write a very short story where `<audio>` and `<video>` are characters.
-
-
 
 <br>
+
 
 ❓ How does Grid layout differ from Flex?
 
@@ -46,15 +44,25 @@ _**Grid Lines**_ are the dividn lines that make up the structure of the grid.  T
 
 * It can save bandwidth
 * It can preserve image quality
-* It can make solving the situation more simple/faster
+* It can make solving resolution switching problems more simple/faster
 
 ❓ Define the following `<img>` attributes `srcset` and `sizes`. Write an example of how they are used.
 
+They provide several additional source images that a browser can choose from.  When coding them it is recommended to list a different part of the attribute value on each line so that each value contains a comma-separated list and each part of those lists is made up of three sub-parts.  As a result of them, the browser should look at its own device width, work out which media condition in the list is the first one to be true, look at the slot size given to that media query, and then load the image reference in the `srcset` list that has the same size as the slot or the first image that is bigger than the chosen slot size.
 
+`srcset` defines the set of images the browser is able to choose between and lists the size of each choice.  It is constructed as follows:
+1. An image filename (for example: salmon-400w.jpg)
+2. An empty space
+3. The image's width in pixels.  This should be the image's true size and is expressed in `w` units.  For example: 400w
+
+`sizes` defines a set of media conditions (such as screen widths) and indicates to the browser what image size would be the best to choose when certain mediat conditions are present.  Before each comma should be the following list:
+1. Media condition (for example (max-width:600px)).  This describes a possible state that the screen can be in (for example, 600px or less).
+2. A blank space
+3. Width of the slot that the image will fill when the media condition exists (for example, 400px).  It can be relative to the viewport, but not a percentage.
 
 ❓ How is `srcset` more helpful for responsive images than CSS or JavaScript?
 
-
+Browsers start downloading image files before loading/interpreting any CSS or JavaScript information.  Therefore, using the `srcset` attribute is more efficient.
     
 <br>
 
