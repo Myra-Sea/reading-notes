@@ -1,5 +1,31 @@
 # 🦉 Forms and JS Events 🦉
 
+| Jump within this page to: |
+| ------ |
+| 🗨️ Notes |
+| 📝 Homework Questions |
+| 📚 Links |
+
+## 🗨️ Notes from Lecture:
+
+A now antiquated HTML attribute is `action`. 
+* `<form action="">...</form>` 
+* That was what was used before JavaScript existed, to send the inputed information to a different url to be processed/handled (often by PHP language, sometimes on a different server)
+
+It is good practice (but not strictly required) to collect together related input elements inside of `<fieldset>...</fieldset>` tags
+
+A `<legend>` describes the purpose of the `<fieldset>`
+
+Within a `<label>`, 
+* `for` is an accessibility feature that communicates to a screenreader what the label is for
+* The text written between the `<label>....</label>` tags tells the user what they are being asked to enter
+
+A label is followed by an `<input>` element, inside of which
+* `name` or `id` attribute provides a label identifier by which the software can look for the bundle of info that was inputted by the user.  Either `id` or `name` can be used.
+* `type="text` provides a textbox field that the user can type inside of
+
+If you don't provide JavaScript instructions of what to do with the user inputed information, then the default is for the browser to convert it all into a string and navigate to a url of itself plus that string of information.
+
 ## 📝 Homework Assignments:
 
 ❓ Why are forms so important in web development?
