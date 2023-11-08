@@ -136,7 +136,7 @@ It alters the appearance/behavior of an element whenever a state change occurs (
 
 ❓ How does a CSS animation differ from a CSS transition?
 
-Animations allow the appearance and behavior of an element to be altered in multiple keyframes.  Whereas transitions provide a chane from one state to another, animations on the other hand can set multiple points of transition on different keyframes.
+Animations allow the appearance and behavior of an element to be altered in multiple keyframes.  Whereas transitions provide a change from one state to another, animations on the other hand can set multiple points of transition on different keyframes.
 
 <br>
 
