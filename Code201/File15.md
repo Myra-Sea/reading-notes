@@ -7,7 +7,7 @@
 Cooperation/compromise, good empathy skills (ie. social sensitivity), respect, safety of interpersonal risk-taking (ie. trust), and good listening skills ("equality in distribution of conversational turn-taking").
 
 Quote by Harvard Business School professor Amy Edmondson:
->"Shared belief held by members of a team that the team is safe for interpersonal risk-taking.  A sense of confidence that the team will not embarrass, reject, or pumish someone for speaking up."
+>"Shared belief held by members of a team that the team is safe for interpersonal risk-taking.  A sense of confidence that the team will not embarrass, reject, or punish someone for speaking up."
 
 ❓ Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.
 
