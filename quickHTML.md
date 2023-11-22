@@ -9,23 +9,43 @@
 
 <br>
 
-## 🧱 Notes From 102:
+## 🧱 Notes From 102 Lectures:
+
++ UX stands for "User Experience"
++ It is a fancy way of saying "planning and designing the user experience."
+  + Examples: What should happen when a user clicks on a button?  What should happen when a user clicks on this specific link?  Where should they be taken?  How should that page look?
+  + There are websites that specialize in showcasing terrible UX designs for fun (for example, having to chase characters floating down the screen in order to enter data into a text box, etc).
+    + [Bad UX Design Examples](https://duckduckgo.com/?q=bad+ux+design+examples&t=chromentp&ia=web)
+    + [Bad UX Design Websites](https://duckduckgo.com/?q=bad+ux+design+websites&t=chromentp&ia=web)
+
+<br>
 
 + HTM Language consists of elements that are made up of 3 parts (2 tags + something placed in between those tags).  Those 3 parts comprising HTML are: an **opening tag**, the **content** that will appear on the page, and a **closing tag**.
 + Extra information inside the _opening tag_, such as styling, can be added using _**attributes.**_
+  + Attributes usually have the structure of `"attribute-name"=value`
++ The exception to these is a self-closing tag which contains the attributes inside, such as for displaying images. 
+  + `<img href = "file-location" />`
 
 <br>
 
 + _**Semantic elements**_ label the structural purpose of the content they surround.  If the name of the element tells you the purpose of what's inside, then it is a semantic element.  For example, a footer, header, nav (navigation menu), table, or other section of the page.
-  + `<Strong>` is a semantic element because the purpose of the element is to tell the broswer to strongly emphasize the content (this is especially important for screen readers to have).   However, `<b>` is not because "bold" is an adjective, not a purpose.  If you were describing how a person spoke an important word louder and more forcefully within a sentence to you, you would say that they "strongly emphasized" that important word, NOT that they "bolded" the word.
-  + Using semantic elements helps other coders to understand the structure of your website when reading your code.  For example, it would be possible for the top of your website's code to be named "footer" and a web broswer could still operate fine with that if you told it to (putting the "footer" labelled content at the top of the user's screen), but doing that would make no sense to a person who is looking only at your code.
+  + `<Strong>` is a semantic element because the purpose of the element is to tell the broswer to strongly emphasize the content (this is especially important for screen readers to have).   However, `<b>` is NOT semantic because "bold" is a styling adjective, not a purpose.  If you were describing how a person spoke an important word louder and more forcefully within a sentence to you, you would say that they "strongly emphasized" that important word, NOT that they "bolded" the word.
+  + Best practice is to use as many semantic elements instead of non-semantic ones in your HTML file.
+  + Using semantic elements helps other coders to understand the structure of your website when reading your code.  For example, it would be possible for the top of your website's code to be named "footer" and a web broswer could still operate fine with that if you told it to (putting the "footer" labelled content at the top of the user's screen), but doing that would make no sense to a person who is looking only at your code.  For similar reasons, it would also confuse users who are using a screenreader if something labelled "footer" was read outloud first to them!
 + The _**head**_ contains instructions for the browser that the user doesn't see on the page itself
   +  For example, what _**title**_ the browser should display in the tab.
   +  NEVER PLACE ANYTHING BETWEEN THE HEAD AND THE BODY
 + The _**body**_ is everything that the user sees on the webpage itself.
   + A _**header**_ is not required but is good practice to have on a page.  That's because usually the header stays the same between pages; thereby easily allowing the user to know that they are still on the same website.
   + The _**main**_ contains the majority of the page's content.
+    + A `<h2>`eader semantic tag is used to contain a level 2 textual header
+    + A `<p>`aragraph semantic tag is used to contain text in paragraph form.
+    + A semantic `<img>` tag denotes an image will appear in that location.
   + A _**footer**_ is not required but is good practice to have on a page.  That's becaues the footer doesn't usually change between pages.  Thus easily allowing the user to know that they are still on the same website.
+
+<Br>
+
+ + A _**div**_ element is an empty container that *anything* can be put inside of.  Therefore it is NOT a semantic element.
 
 <br>
 
