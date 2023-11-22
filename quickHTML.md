@@ -18,6 +18,14 @@
     + [Bad UX Design Examples](https://duckduckgo.com/?q=bad+ux+design+examples&t=chromentp&ia=web)
     + [Bad UX Design Websites](https://duckduckgo.com/?q=bad+ux+design+websites&t=chromentp&ia=web)
 
+    + Creating a wireframe is important for the HTML to look the same across all pages of a website.
+    + Even if it seems redundant, planning a wireframe is always helpful so that you have a reference for what you are trying to shoot for.
+    + A couple online tools for creating wireframes include:
+      + [Google Drawings](https://docs.google.com/drawings/d/1DJDf8whD6LcYtU82E97zRGy4q6psFz48K929lOfWlSs/edit)
+      + [Invision](https://www.invisionapp.com/)
+      + [Miro](https://miro.com/)
+    + It helps to label all the HTML elements that show up on your wirefram picture, from top to bottom (arrows leading to the labels of: `<h1>`, `<header>`, `<nav><ul><li><a href=>`, `<main>`, `<section>`, `<img href=>`, `<p>`, `<footer>`, etc).
+
 <br>
 
 + HTM Language consists of elements that are made up of 3 parts (2 tags + something placed in between those tags).  Those 3 parts comprising HTML are: an **opening tag**, the **content** that will appear on the page, and a **closing tag**.
@@ -25,6 +33,7 @@
   + Attributes usually have the structure of `"attribute-name"=value`
 + The exception to these is a self-closing tag which contains the attributes inside, such as for displaying images. 
   + `<img href = "file-location" />`
+  + The purpose of self-closing tags is when there is no content to place between the opening and closing tags.
 
 <br>
 
