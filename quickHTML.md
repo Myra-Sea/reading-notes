@@ -11,6 +11,9 @@
 
 ## 🧱 Notes From 102 Lectures:
 
++ The starting line for an HTML file `<!DOCTYPE html>` tells the browser to read the contents of the file in HTML.
++ `<html>` should enclose everything.
+
 + UX stands for "User Experience"
 + It is a fancy way of saying "planning and designing the user experience."
   + Examples: What should happen when a user clicks on a button?  What should happen when a user clicks on this specific link?  Where should they be taken?  How should that page look?
@@ -18,13 +21,13 @@
     + [Bad UX Design Examples](https://duckduckgo.com/?q=bad+ux+design+examples&t=chromentp&ia=web)
     + [Bad UX Design Websites](https://duckduckgo.com/?q=bad+ux+design+websites&t=chromentp&ia=web)
 
-    + Creating a wireframe is important for the HTML to look the same across all pages of a website.
-    + Even if it seems redundant, planning a wireframe is always helpful so that you have a reference for what you are trying to shoot for.
-    + A couple online tools for creating wireframes include:
-      + [Google Drawings](https://docs.google.com/drawings/d/1DJDf8whD6LcYtU82E97zRGy4q6psFz48K929lOfWlSs/edit)
-      + [Invision](https://www.invisionapp.com/)
-      + [Miro](https://miro.com/)
-    + It helps to label all the HTML elements that show up on your wirefram picture, from top to bottom (arrows leading to the labels of: `<h1>`, `<header>`, `<nav><ul><li><a href=>`, `<main>`, `<section>`, `<img href=>`, `<p>`, `<footer>`, etc).
++ Creating a wireframe is important for the HTML to look the same across all pages of a website.
+  + Even if it seems redundant, planning a wireframe is always helpful so that you have a reference for what you are trying to shoot for.
+  + A couple online tools for creating wireframes include:
+    + [Google Drawings](https://docs.google.com/drawings/d/1DJDf8whD6LcYtU82E97zRGy4q6psFz48K929lOfWlSs/edit)
+    + [Invision](https://www.invisionapp.com/)
+    + [Miro](https://miro.com/)
+  + It helps to label all the HTML elements that show up on your wirefram picture, from top to bottom (arrows leading to the labels of: `<h1>`, `<header>`, `<nav><ul><li><a href=>`, `<main>`, `<section>`, `<img href=>`, `<p>`, `<footer>`, etc).
 
 <br>
 
