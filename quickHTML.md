@@ -57,7 +57,9 @@
 
 <Br>
 
- + A _**div**_ element is an empty container that *anything* can be put inside of.  Therefore it is NOT a semantic element.
+ + A `<div>` element is an empty container that *anything* can be put inside of.  Therefore it is NOT a semantic element.
+
+ + Similarly, a `<span>` element is NOT semantic, either, since anything can be placed inside of it.
 
 <br>
 
