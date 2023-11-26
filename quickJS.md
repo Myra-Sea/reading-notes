@@ -2,15 +2,15 @@
 
 ## 📺 102 Lecture Notes:
 
-JavaScript delivers user interface action.  JavaScript is interactive, unlike HTML which is the static structure, or CSS which is static styling.
+JavaScript delivers user interface action/activity.  JavaScript is interactive, unlike HTML which is the static structure, or CSS which is static styling.
 
 It is personalized for the user's experience.  Based on input, we will get different output.  Its purpose is to take information and do something with it based on the programming code.
 
- JavaScript is a rare gem in that it is used in both front end AND back end programming.
+JavaScript is a rare gem in that it is used in both front end AND back end programming.
 
 JavaScript has its own language syntax rules
 
-**Variables** are containers for holding onto information
+**Variables** are containers for holding onto data information
   + You get to make the container
   + You get to decide the information
   + You get to decide what to do with that information
@@ -20,11 +20,23 @@ JavaScript has its own language syntax rules
 
 Each line of JavaScript should end with a semicolon `;`
 
-4 Ways to Declare a Variable
+4 Ways to Declare a Variable <sup>(declaring a variable is what creates it)</sup>
 * _**let**_ is used if the variable can be changed
 * _**const**_ is used if the variable can NOT be changed
 * _**var**_ is an antique way of declaring variables.  It should be avoided because nowadays it may give unexpected results
-* (no keyword) is a bad way of declaring a variable and should be avoided 
+* (no keyword) is a bad way of declaring a variable and should be avoided
+
+Examples:
+> let myName = 'Myra';
+> document.write(myName);
+> myName = 'Badger';
+> document.write(myName);
+
+When declaring a variable, the name should be written using camel casing.  You can also start it with a $ dollar sign.
+
+No two variables can be the same.  Their use requires unique identifiers.
+
+The name of a variable should make logical sense for the value inside of it.  For example, a variable called "myName" should contain a string value.
 
 Dynamic components are part of JavaScript but not all JavaScript is a dynamic component
 
@@ -53,20 +65,20 @@ Data Types
 <br>
 
 Basic JavaScript Commands (ie. Basic Functions & Methods):
-+ _**alert**_ creates a popup box containing text, to which the only the thing the user can respond with is to hit the "Okay" button
++ _**alert()**_ creates a popup box containing text, to which the only the thing the user can respond with is to hit the "Okay" button
   + It is the most basic function within JavaScript
   + The command 'alert' should always be followed by a set of parentheses `()`
   + The message you would like to have appear inside of the popup box is placed inside of the parentheses
   + If that message is being written in the code as a text strings, place it inside of quotation marks `""`
   + At the end of the line place a semicolon `;`
   + For example: `alert("Hello everyone! I am a popup box");` 
-+ _**console.log**_ is a basic JavaScript command that sends information to the console
++ _**console.log()**_ is a basic JavaScript command that sends information to the console
   + The console is "under the hood" of a browser (In Chrome, access it via: right-clicking --> Inspect --> Console)
   + Like the alert function, this command is also followed by a set of parentheses and a message
   + Whatever is inside of the parentheses is what will appear inside of the console
   + For example: `console.log("I am written in the console");`
-+ _**document.write**_ will write a dynamic component onto the webpage
-  + Places data onto your webpage
++ _**document.write()**_ will write a dynamic component onto the webpage
+  + Places data onto your webpage.  It basically places text into the HTML document.
   + Example 1 (using a string): `document.write("A string of words to have appear on the webpage goes here");`
   + Example 2 (using a variable): `document.write(myName);`
 + _**let**_
