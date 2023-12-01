@@ -71,15 +71,15 @@ Basic JavaScript Commands (ie. Basic Functions & Methods):
   + The message you would like to have appear inside of the popup box is placed inside of the parentheses
   + If that message is being written in the code as a text strings, place it inside of quotation marks `""`
   + At the end of the line place a semicolon `;`
-  + For example: `alert("Hello everyone! I am a popup box");` 
+  + For example: `alert('Hello everyone! I am a popup box');` 
 + _**console.log()**_ is a basic JavaScript command that sends information to the console
   + The console is "under the hood" of a browser (In Chrome, access it via: right-clicking --> Inspect --> Console)
   + Like the alert function, this command is also followed by a set of parentheses and a message
   + Whatever is inside of the parentheses is what will appear inside of the console
-  + For example: `console.log("I am written in the console");`
+  + For example: `console.log('I am written in the console');`
 + _**document.write()**_ will write a dynamic component onto the webpage
   + Places data onto your webpage.  It basically places text into the HTML document.
-  + Example 1 (using a string): `document.write("A string of words to have appear on the webpage goes here");`
+  + Example 1 (using a string): `document.write('A string of words to have appear on the webpage goes here');`
   + Example 2 (using a variable): `document.write(myName);`
 + _**let**_
   + Follow the `let` keyword with the variable name
