@@ -6,6 +6,7 @@
 |[201 - HTML Basics](https://myra-sea.github.io/reading-notes/quick.html#-html-basics)|
 |[201 - HTML Text Fundamentals](https://myra-sea.github.io/reading-notes/quick.html#-html-text-fundamentals) |
 |[201 - HTML Text Formatting](https://myra-sea.github.io/reading-notes/quick.html#-html-text-formatting) |
+|[About HTML5](https://myra-sea.github.io/reading-notes/quick.html#-about-html5) |
 
 <br>
 
@@ -101,6 +102,25 @@ A few examples include:
 + Abbreviations
 + Subscripts
 + Superscripts
+
+## 👨‍💻 About HTML5
+
+According to ChatGPT 3.5, HTML5 _"was formally finalized as a W3C Recommendation on October 28, 2014"_ and _"includes a variety of new features and improvements over its predecessor."_
+
+Quoted from ChatGPT:
+> Semantic Elements: HTML5 introduces new semantic elements like `<header>`, `<nav>`, `<article>`, `<section>`, `<footer>`, and `<aside>`. These elements help define the structure of a web page in a more meaningful and semantically rich way.
+>
+> Multimedia Support: HTML5 provides native support for embedding audio and video content without the need for third-party plugins. The `<audio>` and `<video>` elements allow developers to include media files directly in their web pages.
+>
+> Canvas: The `<canvas>` element enables the drawing of graphics and animations using JavaScript. It provides a 2D drawing API that allows developers to create dynamic and interactive visual content within the browser.
+>
+> Offline Web Applications: HTML5 introduces the Application Cache (AppCache) feature, allowing web developers to create offline web applications. This enables users to access web pages even when they are not connected to the internet.
+>
+> Local Storage and Session Storage: HTML5 provides the localStorage and sessionStorage APIs, allowing developers to store data locally on the user's device. This enables the creation of more responsive and efficient web applications.
+>
+> New Form Input Types and Attributes: HTML5 introduces new input types such as `email`, `url`, `number`, `date`, and attributes like `placeholder` and `required` for form elements, making it easier to collect and validate user input.
+>
+> WebSockets: HTML5 includes support for WebSockets, enabling real-time communication between the client and server over a single, long-lived connection.
 
 
 <br>
