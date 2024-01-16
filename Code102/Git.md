@@ -21,3 +21,11 @@
 **git commit** takes a snapshot of changed files.  Add `-m` and a description of changes made inside of quotation marks to the end in order to record what was changed.  For example, ***git commit -m "Fixed typos"***
 
 **git push** is the command that should be used to send changed files to a remote repository.  For sending to GitHub it should be followed by "origin main"  so that the command reads ***git push origin main***
+
+<br>
+
+![swirly divider line](divider.gif)
+
+## Assigned Reading
+
+[Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
